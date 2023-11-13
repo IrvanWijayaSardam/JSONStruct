@@ -1,0 +1,65 @@
+{
+  "company": {
+    "name": "TechCorp",
+    "location": {
+      "country": "United States",
+      "city": "Silicon Valley"
+    },
+    "departments": [
+      {
+        "name": "Engineering",
+        "teams": [
+          {
+            "teamLead": {
+              "name": "Alice Johnson",
+              "experienceYears": 8
+            },
+            "developers": [
+              {
+                "name": "Bob Smith",
+                "programmingLanguages": ["JavaScript", "Python"]
+              },
+              {
+                "name": "Charlie Brown",
+                "programmingLanguages": ["Java", "C++"]
+              }
+            ]
+          },
+          {
+            "teamLead": {
+              "name": "David Miller",
+              "experienceYears": 10
+            },
+            "developers": [
+              {
+                "name": "Eva White",
+                "programmingLanguages": ["C#", "Ruby"]
+              },
+              {
+                "name": "Frank Taylor",
+                "programmingLanguages": ["Python", "Swift"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Marketing",
+        "teamLead": {
+          "name": "Grace Turner",
+          "experienceYears": 7
+        },
+        "marketers": [
+          {
+            "name": "Hank Roberts",
+            "specialization": "Digital Marketing"
+          },
+          {
+            "name": "Isabel Perez",
+            "specialization": "Content Marketing"
+          }
+        ]
+      }
+    ]
+  }
+}
